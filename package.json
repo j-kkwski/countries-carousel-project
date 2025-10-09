@@ -1,0 +1,15 @@
+{
+  "name": "countries-flags-carousel",
+  "version": "1.0.0",
+  "description": "Display country typed by the user and it's neighbours around it. Once neighbour is clicked it takes the place of the main country and it's neighbours are displayed.",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Jakub Kraskowski",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  }
+}
