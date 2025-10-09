@@ -3,6 +3,7 @@
 An interactive web application that displays information about countries and their neighbors in a visually appealing carousel layout. Built with vanilla JavaScript using MVC architecture.
 
 ## 🔴 Live Demo
+
 Check out the live application: [Countries Carousel](https://countries-carousel-project.netlify.app/)
 
 ## ✨ Features
@@ -41,16 +42,19 @@ src/
 ## 🚀 Getting Started
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/j-kkwski/countries-carousel-project.git
    ```
 
 2. Install dependencies:
+
    ```bash
    npm install
    ```
 
 3. Start development server:
+
    ```bash
    npm start
    ```
@@ -72,6 +76,7 @@ src/
 ## 📱 Responsive Design
 
 The application is fully responsive and works on:
+
 - Desktop computers
 - Tablets
 - Mobile devices
